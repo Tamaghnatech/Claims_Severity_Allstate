@@ -20,7 +20,7 @@ The code adheres to the standard Python PEP 8 style guide.
 
 ## Screenshots
 
-[Include some visual representations of your project here, such as plots or graphs visualizing the results.]
+![Visualization of one result](vis2.png)
 
 ## Tech/Framework used
 
